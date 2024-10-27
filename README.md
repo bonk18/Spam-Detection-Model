@@ -40,26 +40,14 @@ Installation
 ------------
 
 1.  Clone this repository:
+2.  
+    `git clone https://github.com/bonk18/spam-detection-model.git`
 
-    bash
-
-    Copy code
-
-    `git clone https://github.com/yourusername/spam-detection-model.git`
-
-2.  Navigate to the project directory:
-
-    bash
-
-    Copy code
+3.  Navigate to the project directory:
 
     `cd spam-detection-model`
 
-3.  Install required packages:
-
-    bash
-
-    Copy code
+4.  Install required packages:
 
     `pip install -r requirements.txt`
 
